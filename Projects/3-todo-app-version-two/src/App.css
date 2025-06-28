@@ -1,0 +1,15 @@
+
+
+input {
+  width: 100%;
+}
+
+
+
+.item-row {
+  margin: 10px 5px;
+}
+
+.action-buttons {
+  min-width: 80px;
+}
