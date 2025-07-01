@@ -1,0 +1,31 @@
+.app-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 700px;
+}
+.post-card{
+  margin: 20px 50px;
+}
+.tags{
+  margin: 0px 3px;
+}
+.badges{
+  margin:0px 10px;
+}
+.postBody{
+  color: black;
+}
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.spinner{
+  margin: 20% 0;
+}
